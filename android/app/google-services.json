@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "602086491447",
+    "project_id": "tazg-6644c",
+    "storage_bucket": "tazg-6644c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602086491447:android:fd03087484c5c2f12506b2",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602086491447-5n0sbj8huufu3kv6sg9m903qcp440qh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_t9g4RKTf19bWFCZB5_AJEDcpuYxmOvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602086491447-5n0sbj8huufu3kv6sg9m903qcp440qh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602086491447-opgrbv0oopesfqi0e408glq0ks5rm5me.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tazeg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
